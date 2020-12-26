@@ -30,7 +30,7 @@ After you purchase a new license or upgrade an existing license from {% data var
 
 If you'd like to renew or add user licenses to {% data variables.product.prodname_enterprise %}, contact {% data variables.contact.contact_enterprise_sales %}. Your new license file will be available for download immediately after you complete your order.
 
-{% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
+{% data reusables.enterprise-accounts*aba121000248 Act:3511 .access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 3. In the left sidebar, click **Enterprise licensing**.
   !["Enterprise licensing" tab in the enterprise account settings sidebar](/assets/images/help/enterprises/enterprise-licensing-tab.png)
