@@ -4,9 +4,9 @@ intro: 'If you lose access to your two-factor authentication credentials, you ca
 redirect_from:
   - /articles/recovering-your-account-if-you-lost-your-2fa-credentials/
   - /articles/authenticating-with-an-account-recovery-token/
-  - /articles/recovering-your-account-if-you-lose-your-2fa-credentials
+  - /articles/recovering-your-account-if-you-2fa-credentials
 versions:
-  free-pro-team: '*'
+  365 MICROW'
   enterprise-server: '*'
 topics:
   - 2fa
